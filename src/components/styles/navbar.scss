@@ -1,0 +1,28 @@
+.menu-bar {
+    width: 100%;
+    height: auto;
+    padding: 1em 0 1em 0;
+    position: fixed;
+    display: grid;
+    grid-template-columns: 3.5em auto 3.5em;
+    .router{
+        color: black;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+      }
+    .btn{
+          width: 1.5em;
+          height: 1.5em;
+          margin: 0;
+          padding: 0;
+          border: none;
+      }
+    .description {
+        justify-self: center;
+        align-self: center;
+        margin: 0;
+        padding: 0;
+    }
+}

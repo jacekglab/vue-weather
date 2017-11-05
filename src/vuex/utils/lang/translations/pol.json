@@ -1,0 +1,43 @@
+{
+    "calendar":{
+        "today": "Dzisiaj",
+        "0": "Niedziela",
+        "1": "Poniedziałek",
+        "2": "Wtorek",
+        "3": "Środa",
+        "4": "Czwartek",
+        "5": "Piątek",
+        "6": "Sobota"
+    },
+    "details":{
+        "temperature": "Temperatura",
+        "humidity": "Wilgotność",
+        "uv": "Indeks UV",
+        "wind": "Wiatr",
+        "precipation": "Opady",
+        "pressure": "Ciśnienie"
+    },
+    "d3":{
+        "sunrise": "Wschód",
+        "sunset": "Zachód"
+    },
+    "settings":{
+        "name": "Ustawienia",
+        "theme": {
+            "name": "Skórka",
+            "light": "Jasna",
+            "dark": "Ciemna"
+        },
+        "units": {
+            "name": "Jednostki",
+            "metric": "Metryczne",
+            "imperial": "Imperialne"
+        },
+        "language": {
+            "name": "Język",
+            "eng": "Angielski",
+            "ger": "Niemiecki",
+            "pol": "Polski"
+        }
+    }
+}

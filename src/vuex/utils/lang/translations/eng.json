@@ -1,0 +1,43 @@
+{
+    "calendar":{
+        "today": "Today",
+        "0": "Sunday",
+        "1": "Monday",
+        "2": "Tuesday",
+        "3": "Wednesday",
+        "4": "Thursday",
+        "5": "Friday",
+        "6": "Saturday"
+    },
+    "details":{
+        "temperature": "Temperature",
+        "humidity": "Humidity",
+        "uv": "UV Index",
+        "wind": "wind",
+        "precipation": "Precipation",
+        "pressure": "Pressure"
+    },
+    "d3":{
+        "sunrise": "Sunrise",
+        "sunset": "Sunset"
+    },
+    "settings":{
+        "name": "Settings",
+        "theme": {
+            "name": "Theme",
+            "light": "Lignt",
+            "dark": "Dark"
+        },
+        "units": {
+            "name": "Units",
+            "metric": "Metric",
+            "imperial": "Imperial"
+        },
+        "language": {
+            "name": "Language",
+            "eng": "English",
+            "ger": "German",
+            "pol": "Polish"
+        }
+    }
+}
